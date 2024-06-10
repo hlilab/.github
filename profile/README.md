@@ -4,6 +4,7 @@ These forks are [automatically synced](https://github.com/apps/pull) with the pa
 If you want to create issues or send pull requests, please do so at the parent repos.
 
 Selected tools maintained by current lab members:
+* [ropebwt3](https://github.com/lh3/ropebwt3): the construction and utility of BWT for DNA string sets
 * [longcallR](https://github.com/huangnengCSU/longcallR): calling SNPs from long RNA-seq reads
 * [Immuannot](https://github.com/YingZhou001/Immuannot): annotating HLA and KIR genes in phased assemblies
 * [compleasm](https://github.com/huangnengCSU/compleasm): a reimplementation of BUSCO for evaluating gene completeness
