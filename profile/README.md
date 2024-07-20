@@ -13,11 +13,11 @@ Selected tools maintained by current lab members:
 * [hifieval](https://github.com/hlilab/hifieval): evaluating the accuracy of long-read error correction
 * [srf](https://github.com/lh3/srf): assembler for satellite DNA
 * [miniprot](https://github.com/lh3/miniprot): protein-to-genome alignment
-* [hifiasm](https://github.com/chhylp123/hifiasm): de novo assembler for accurate long reads
 * [minigraph](https://github.com/lh3/minigraph): pangenome construction and sequence-to-graph alignment
 * [minimap2](https://github.com/lh3/minimap2): aligning long reads and contigs
 
-Tools maintained by past lab members:
+Tools developed by past lab members:
+* [hifiasm](https://github.com/chhylp123/hifiasm): de novo assembler for accurate long reads
 * [ntsm](https://github.com/JustinChu/ntsm): sample swap detection
 * [hifiasm-meta](https://github.com/xfengnefx/hifiasm-meta): metagenome assembler for accurate long reads
 * [T1K](https://github.com/mourisl/T1K): HLA and KIR genotyper
