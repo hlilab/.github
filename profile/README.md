@@ -4,9 +4,10 @@ These forks are [automatically synced](https://github.com/apps/pull) with the pa
 If you want to create issues or send pull requests, please do so at the parent repos.
 
 Selected tools maintained by current lab members:
+* [longcallD](https://github.com/yangao07/longcallD): small and large variant calling from genomic long reads
 * [ropebwt3](https://github.com/lh3/ropebwt3): construction and utility of BWT for DNA string sets
 * [minisv](https://github.com/lh3/minisv): lightweight mosaic/somatic SV caller for long reads
-* [longcallR](https://github.com/huangnengCSU/longcallR): calling SNPs from long RNA-seq reads
+* [longcallR](https://github.com/huangnengCSU/longcallR): SNP calling and haplotype-specific analysis from long RNA-seq reads
 * [Immuannot](https://github.com/YingZhou001/Immuannot): annotating HLA and KIR genes in phased assemblies
 * [pangene](https://github.com/lh3/pangene): constructing a pangenome gene graph 
 * [compleasm](https://github.com/huangnengCSU/compleasm): a reimplementation of BUSCO for evaluating gene completeness
@@ -23,4 +24,4 @@ Tools developed by past lab members:
 * [T1K](https://github.com/mourisl/T1K): HLA and KIR genotyper
 * [chromap](https://github.com/haowenz/chromap): aligning short ChIP-seq, ATAC-seq or Hi-C reads
 
-Tools developed before 2018: [samtools](https://github.com/samtools/samtools), [BWA](https://github.com/lh3/BWA) and [more](https://github.com/lh3).
+Tools developed before 2018: [samtools](https://github.com/samtools/samtools), [BWA](https://github.com/lh3/BWA) and [more](https://hlilab.github.io/software).
